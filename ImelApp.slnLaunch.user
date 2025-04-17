@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ImelApp.Server\\ImelApp.Server.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "imelapp.client\\imelapp.client.esproj",
+        "Action": "Start",
+        "DebugTarget": "localhost (Chrome)"
+      }
+    ]
+  }
+]
